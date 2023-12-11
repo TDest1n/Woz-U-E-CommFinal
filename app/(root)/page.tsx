@@ -1,3 +1,4 @@
+
 "use client";
 
 import { useStoreModal } from "@/hooks/use-store-modal";
@@ -23,3 +24,5 @@ const SetupPage = ()=> {
 }
 
 export default SetupPage;
+
+
