@@ -8,9 +8,4 @@ export default function AuthLayout({
             {children}
         </div>
     )
-<<<<<<< HEAD
 }
-
-=======
-}
->>>>>>> 4b8b87045e5b0019847a4e4ea6717a102dc184d0

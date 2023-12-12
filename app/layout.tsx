@@ -27,8 +27,6 @@ export default function RootLayout({
         <ModalProvider />
         {children}
         </body>
-
-      <body className={inter.className}>{children}</body>
     </html>
     </ClerkProvider>
   )
